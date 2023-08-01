@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #1c1c2b;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+.heading {
+  color: #94a3b8;
+  font-size: 12px;
+  font-family: 'Roboto';
+  font-weight: 400;
+}
